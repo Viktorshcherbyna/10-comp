@@ -36,9 +36,12 @@ header ul li a {
   font-size: 22px;
   display: block;
   text-align: center;
+  border-radius: 20px;
 }
 header ul li a:hover {
   background: grey;
+  border-bottom: 3px solid blue;
+  color: blue;
 }
 #logo img {
   max-width: 200px;
