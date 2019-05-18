@@ -117,6 +117,13 @@ content styles
 }
 
 
+@media (max-width: 1030px) {
+  content-wrap {
+    margin: 0 50px;
+  }
+  
+}
+
 
 @media (max-width: 987px) {
   header ul {
